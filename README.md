@@ -3,6 +3,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-10B981?style=flat&logo=githubpages&logoColor=white)](https://patora-ai-it-services.github.io/AI_Surveillance_and_Inventory_Management_Bot/)
 [![License](https://img.shields.io/badge/License-Proprietary-teal?style=flat)](#)
 
 > **"See More. Know More. Manage Smarter."**  
